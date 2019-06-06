@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bloc_clone_4340.wsgi:application
